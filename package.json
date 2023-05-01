@@ -5,11 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"react-scripts build"
+    "build": "react-scripts build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Bat-Sheva-Sh/PraktiokodSe.git"
+  },
+  "resolutions": {
+    "cssnano-preset-simple": "3.0.0"
   },
   "author": "",
   "license": "ISC",
